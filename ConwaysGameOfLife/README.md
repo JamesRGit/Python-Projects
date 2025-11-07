@@ -5,7 +5,7 @@ What is Conway's Game of Life?
 
 The Game of Life, also known as Conway's Game of Life or simply Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.
 
-This project initializes a random grid of living (`0`) and dead ` `) cells and then repeatedly applies the game's rules to show how the patterns evolve over time.
+This project initializes a random grid of living (`0`) and dead (` `) cells and then repeatedly applies the game's rules to show how the patterns evolve over time.
 
 ## Preview
 The output will look something like this, with the pattern changing every second:
@@ -60,3 +60,4 @@ python your_script_name.py
 ## Controls
 - **Start**: The game begins automatically.
 - **Exit**: Press `Ctrl+C` to stop the program.
+
